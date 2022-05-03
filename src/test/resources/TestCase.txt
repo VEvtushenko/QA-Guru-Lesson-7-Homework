@@ -1,0 +1,15 @@
+Заголовок:
+    Проверка наличия issue с заданным именем в заданном репозитории на Github
+
+Тестовые данные:
+    Репозиторий: "VEvtushenko/VEvtushenko-QA-Guru-HelloWorld"
+    Имя:с "My first issue"
+
+Шаги:
+  - Открывааем главную страницу Github
+  - Ищем и открываем репозиторий VEvtushenko/VEvtushenko-QA-Guru-HelloWorld
+  - Переходим на вкладку "Issues"
+  - Ищем в списке "My first issue"
+
+Ожидаемый результат:
+    Среди issues нашёлся нужный
